@@ -2,3 +2,4 @@ data_MNIST
 .ipynb_checkpoints
 __pycache__
 .jovianrc
+test.py
