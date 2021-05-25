@@ -6,3 +6,4 @@ test.py
 data_CIFAR10
 data_MNIST
 pretrained_model/AT-AWP_cifar10_linf_wrn34-10.pth
+model/AT-AWP_cifar10_linf_wrn34-10.pth
