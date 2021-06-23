@@ -5,5 +5,8 @@ __pycache__
 test.py
 data_CIFAR10
 data_MNIST
+data_FashionMNIST
 pretrained_model/AT-AWP_cifar10_linf_wrn34-10.pth
 model/AT-AWP_cifar10_linf_wrn34-10.pth
+Display Image.ipynb
+With SSIM (fixed parameter eps = 0.1, step_size = 0.3).ipynb
